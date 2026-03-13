@@ -72,3 +72,8 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 Copie la contraseña alfanumérica de 32 caracteres de la terminal, péguela en el campo Administrator password y luego haga clic en Continue.
 Usuario: administrador
 contraseña: xxxx
+
+
+## Autor
+Alejandro Velaz
+🎓 Formación: ASIR
