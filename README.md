@@ -1,6 +1,6 @@
 # jenkins-nexus-installation-local
 
-Instalar Jenkins en Windows:
+## Instalación de Jenkins en Windows:
 1. Java 17 instalado en windows.
 2. Configurar puerto 8080.
 3. C:\Program Files\Jenkins> jenkins.exe start --> ejecutamos en el cmd para arrancar el servicio Jenkins.
@@ -15,7 +15,7 @@ e-mail: xxxx
 
 
 
-Instalar Nexus en Windows:
+## Instalación de Nexus en Windows:
 1. Descargamos el archivo zip de Nexus y lo extraemos.
 Hay detalles básicos sobre los directorios:
 nexus-version -> bin — binarios ejecutables/script 
@@ -37,7 +37,7 @@ Nombre de usuario: admin
 Contraseña nueva: xxxx
 
 
-Instalar Jenkins en Linux:
+## Instalación de Jenkins en Linux:
 1. Primero ejecutamos los comandos sudo apt update y apt upgrade para actualizar los paquetes del sistema.
 2. Agregue la clave del repositorio al sistema:
 wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -
